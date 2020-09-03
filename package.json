@@ -1,0 +1,11 @@
+{
+  "name": "thought-sharer",
+  "version": "1.0.0",
+  "description": "Clone de uma rede social",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Silva",
+  "license": "MIT"
+}
